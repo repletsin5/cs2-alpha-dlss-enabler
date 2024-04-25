@@ -1,4 +1,4 @@
-# Cities: Skylines 2 - Alpha DLSS Enabler
+# Cities: Skylines 2 - Alpha DLSS Enabler (Now in the base game as of v1.1.2f1)
 
 NOTE: This fork of the orginal mod that has not been updated, I did make a pull request but still waiting on a response
 
